@@ -3,9 +3,9 @@ import java.util.Scanner;
 class Fibonacci{
   public static void main(String args[])
    {
-      System.out.println("Enter the number of terms : ");
-      Scanner scan = new Scanner(System.in);
-      int n = scan.nextInt();
+    //  System.out.println("Enter the number of terms : ");
+     // Scanner scan = new Scanner(System.in);
+      int n = 5     //scan.nextInt();
       int a=0;
       int b=1;
       int t;
